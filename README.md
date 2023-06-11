@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Mohammad</h1>
-<h3 align="center">A computer engineer student from Iran</h3>
+<h3 align="center">A computer engineer student</h3>
 
 <p align="left">This Project developed for Advance Programing class as Project-based learning to get to know OOP programming</p>
 <p align="left"></p>
